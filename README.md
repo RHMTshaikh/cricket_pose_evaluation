@@ -36,7 +36,7 @@ A project for evaluating cricket poses using computer vision and machine learnin
 
 2. **Run the evaluation:**
     ```bash
-    python evaluate_pose.py --input input/your_image_or_video
+    python cover_drive_analysis_realtime.py
     ```
 
 3. **View results:**
