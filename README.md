@@ -2,6 +2,12 @@
 
 A project for evaluating cricket poses using computer vision and machine learning.
 
+## Demo Video
+
+[![Cricket Pose Evaluation Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtube.com/shorts/58zkq1k18ZM)
+
+Replace `YOUR_VIDEO_ID` with the actual YouTube video ID.
+
 
 ## Features
 
