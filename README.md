@@ -4,10 +4,9 @@ A project for evaluating cricket poses using computer vision and machine learnin
 
 ## Demo Video
 
-[![Watch the video](https://img.youtube.com/vi/EF6fqnnl3Uk/maxresdefault.jpg)](https://youtu.be/EF6fqnnl3Uk)
+[![Watch the video](https://img.youtube.com/shorts/JbgYndCSv3k/maxresdefault.jpg)](https://youtu.be/JbgYndCSv3k)
 
-### [Complete walk through of this repository](https://youtu.be/EF6fqnnl3Uk)
-
+### [Complete walk through of this repository](https://www.youtube.com/shorts/JbgYndCSv3k)
 
 ## Features
 
