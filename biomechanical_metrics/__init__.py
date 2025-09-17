@@ -152,3 +152,14 @@ def _angle_between_lines(lineA, lineB):
     angle_degrees = np.degrees(angle)
     
     return angle_degrees
+
+class BiomechanicalConstants:
+    front_elbow_angle_ideal = 90
+    spine_lean_angle_ideal = 0
+    head_over_knee_angle_ideal = 0
+    front_foot_angle_ideal = 90
+
+    front_elbow_angle_threshold = 15
+    spine_lean_angle_threshold = 10
+    head_over_knee_angle_threshold = 10
+    front_foot_angle_threshold = 15
